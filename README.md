@@ -1,0 +1,2 @@
+# Westcoin
+ Westcoin landing
